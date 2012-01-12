@@ -1,15 +1,14 @@
 JeasyCreate is a Javascript DOM creation framework. 
 
 
-If you have a highly interactive website, with a lot of DOM creation this framework suits you well.
-Instead of writing four lines of code for creating an element with a class name and append to the DOM tree.
+If you have a highly interactive website, with a lot of DOM creation this framework suits you well. Instead of writing four lines of code for creating an element with a class name and append to the DOM tree, like the exmaple below.
 
 var element = document.createElement('div');
 element.className = 'someClass';
 var elementToAppendTo = document.getElementById('elementToAppendTo');
 elementToAppendTo.appendChild(element);
 
-With JeasyCreate, you just type a single line of code
+With JeasyCreate, you just type a single line of code:
 
 var element = divAppend('.someClass', '#elementToAppendTo');
 
