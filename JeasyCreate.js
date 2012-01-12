@@ -13,7 +13,7 @@
 //  You should have received a copy of the GNU General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-// Contact Tingan Ho tingan@clockies.com
+// Author: Tingan Ho <tingan@clockies.com>
 
 function append(appendElement, element){
 	var isInstance = appendElement instanceof jQuery;
