@@ -15,4 +15,7 @@ var element = divAppend('.someClass', '#elementToAppendTo');
 
 The syntax is tagnameAppend('Define the elements id/classname/attribute with Jquery selector', elementToAppendTo). The elementToAppendTo could also be Jquery selector. You could also prepend / before and after to add an element to the DOM tree.
 
+Requirements:
+Jquery
+
 That's it!
