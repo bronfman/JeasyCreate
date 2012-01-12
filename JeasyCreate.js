@@ -1,8 +1,8 @@
 //  JeasyCreate is a Javascript DOM Creation framework
 
-//	This program is free software: you can redistribute it and/or modify
-//	it under the terms of the GNU General Public License as published by
-//	the Free Software Foundation, either version 3 of the License, or
+//  This program is free software: you can redistribute it and/or modify
+//  it under the terms of the GNU General Public License as published by
+//  the Free Software Foundation, either version 3 of the License, or
 //  (at your option) any later version.
 
 //  This program is distributed in the hope that it will be useful,
@@ -13,7 +13,7 @@
 //  You should have received a copy of the GNU General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-// Author: Tingan Ho <tingan@clockies.com>
+//  Author: Tingan Ho <tingan@clockies.com>
 
 function append(appendElement, element){
 	var isInstance = appendElement instanceof jQuery;
